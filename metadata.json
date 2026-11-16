@@ -1,0 +1,6 @@
+{
+  "name": "ChurnIQ — Customer Churn Prediction & Explainable AI",
+  "description": "Enterprise-grade machine learning platform for churn prediction featuring raw data preprocessing, feature engineering, model benchmarking (Logistic Regression vs Random Forest vs XGBoost), SHAP explainability, Customer 360, retention recommendation engine, real-time ingestion, CRM integration, RBAC, and audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
